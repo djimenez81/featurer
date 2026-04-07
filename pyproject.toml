@@ -1,0 +1,15 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "featurer"
+version = "0.1.0"
+description = "Computes a feature system for a given collection of phones."
+# readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "GPL-3.0-or-later" }
+authors = [
+    {name = "David Jiménez", email = "david.jimenezlopez@ucr.ac.cr"}
+]
+dependencies = []
