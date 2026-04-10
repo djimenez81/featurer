@@ -1,4 +1,4 @@
-# Featurer
+# `featurer`
 
 **WARNING:** At the present moment this package is at the very early stages of
 implementation, therefore it is not yet functional.
@@ -28,5 +28,33 @@ phonetical inventory containing all phones used in the provided corpus.
 
 At this moment, `featurer` supports (or at least it is planned to support):
 
-- IPA. 
+- IPA.
 - X-SAMPA.
+
+
+## Installation
+
+**PENDING**
+
+## Usage
+
+**PENDING**
+
+## License
+
+GPLv3. [Check here](LICENSE).
+
+## Support and Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to
+discuss what you would like to change.
+
+To obtain support with this package, email me at david.jimenezlopez@ucr.ac.cr.
+
+## Authors and acknowledgment
+
+- David Jiménez (david.jimenezlopez@ucr.ac.cr).
+
+## Project status
+
+At this point the project is in a very early stage.
